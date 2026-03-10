@@ -1,0 +1,5 @@
+{
+  "name": "Metropolis Score Tracker",
+  "description": "Een eenvoudige app om de scores van het kaartspel Metropolis bij te houden.",
+  "requestFramePermissions": []
+}
